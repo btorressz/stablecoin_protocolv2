@@ -1,8 +1,9 @@
 # stablecoin_protocolv2
 
-stablecoin_protocolv2 is a Solana-based program(smart contract) built using the Anchor framework. The protocol provides a comprehensive suite of features for minting, burning, staking, and governing stablecoins while ensuring robust collateralization and liquidation mechanisms.
-**NOTE: THIS IS A MODIFIED VERSION OF A PROJECT BACK IN SEPTEMBER THROUGH OCTOBER** 
-The project was first attempted to be made using native Solana(https://github.com/btorressz/stablecoin_protocol) however anchor was a better option for this. 
+**stablecoin_protocolv2** is a Solana-based program (smart contract) built using the Anchor framework. The protocol provides a comprehensive suite of features for minting, burning, staking, and governing stablecoins while ensuring robust collateralization and liquidation mechanisms.
+
+**NOTE:** This is a modified version of a project that was in development from **September through October**.  
+The project was initially developed using native Solana (https://github.com/btorressz/stablecoin_protocol); however, Anchor proved to be a better option for this project.
 
 ---
 
@@ -29,7 +30,7 @@ The project was first attempted to be made using native Solana(https://github.co
 
 ---
 
-## Program Overview(Smart Contract)
+## Program Overview (Smart Contract)
 
 ### Instructions
 
@@ -78,5 +79,8 @@ The project was first attempted to be made using native Solana(https://github.co
 - **Overflow**: Numeric calculation overflow.
 - **NotEligibleForLiquidation**: User is not under-collateralized.
 
-  ## LICENSE
-  This project is under the **MIT LICENSE**
+---
+
+## LICENSE
+
+This project is licensed under the **MIT License**.
