@@ -6,7 +6,7 @@
 **THIS PROJECT WAS COMPLETED IN OCTOBER**
 The project was initially developed using native Solana (https://github.com/btorressz/stablecoin_protocol); however, Anchor proved to be a better option for this project.
 
-devnet
+devnet:(https://explorer.solana.com/address/DUzMJWGEKxbZ3fFnmhiF2r3pzg3FvbiK1UMZp8q9VJpJ?cluster=devnet)
 
 ---
 
